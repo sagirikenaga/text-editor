@@ -10,7 +10,7 @@ Once the webpage is opened, the user may simply add notes by typing with their k
 
 ## Deployed Application
 
-The live page is found at https://sagirikenaga.github.io/coding-quiz/. 
+The live page is found at https://si-note-editor.herokuapp.com/. 
 
 ## Demo
 
